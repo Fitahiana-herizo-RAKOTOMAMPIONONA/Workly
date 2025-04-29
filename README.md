@@ -1,4 +1,6 @@
 # Workly
 Une plateforme qui connecte les recruteurs aux meilleurs talents.
 
-encore en mode developpment
+
+**statut :**
+Encore en mode developpment et privee
