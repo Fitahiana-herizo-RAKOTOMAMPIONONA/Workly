@@ -1,0 +1,9 @@
+[submodule "workly-web"]
+	path = workly-web
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/workly-web
+[submodule "workly"]
+	path = workly
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/workly-MobileApp
+[submodule "workly-server"]
+	path = workly-server
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/workly-server
